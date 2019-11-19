@@ -1,4 +1,4 @@
-package net.usermd.grabiecm.mailsender;
+package net.usermd.grabiecm.mailsender.controller;
 
 import net.usermd.grabiecm.mailsender.model.CatFact;
 import org.springframework.beans.factory.annotation.Autowired;

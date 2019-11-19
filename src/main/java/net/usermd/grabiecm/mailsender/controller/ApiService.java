@@ -1,4 +1,4 @@
-package net.usermd.grabiecm.mailsender;
+package net.usermd.grabiecm.mailsender.controller;
 
 import net.usermd.grabiecm.mailsender.model.CatFact;
 import org.springframework.stereotype.Service;

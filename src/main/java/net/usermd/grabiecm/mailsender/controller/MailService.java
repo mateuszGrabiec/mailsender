@@ -1,4 +1,4 @@
-package net.usermd.grabiecm.mailsender;
+package net.usermd.grabiecm.mailsender.controller;
 
 
 public interface MailService {
