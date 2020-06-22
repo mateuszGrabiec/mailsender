@@ -32,7 +32,6 @@ public class MailSenderImpl {
         msg.setSubject(mailService.getTopic());
         msg.setText(mailService.getContent());
 
-        //System.out.println("works");
         javaMailSender.send(msg);
     }
 }
